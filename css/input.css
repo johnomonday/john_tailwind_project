@@ -1,3 +1,13 @@
 @import "tailwindcss";
 
 
+@theme {
+    --color-primary-header: #0f172c;
+    --color-secondary-hero: #0f172a;
+    --color-accent-button: #4382e8;
+    --color-green-shade: #22c65d;
+    --color-purple: #bf7af6;
+    --color-dark-green: #0f172c;
+    --color-blue-shade: #4780de;
+    --color-blue-services: #152034;
+}
